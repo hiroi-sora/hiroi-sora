@@ -1,5 +1,6 @@
 <center>
-  <h3>Hi~ &nbsp;&nbsp;<img height="23px" src="https://visitor-badge.glitch.me/badge?page_id=hiroi-sora"/></h3>
+  <h3>Hi~</h3>
+  <img height="23px" src="https://profile-counter.glitch.me/hiroi-sora/count.svg"/>
 </center>
 
 
