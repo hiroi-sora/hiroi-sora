@@ -1,7 +1,7 @@
-<div align="center" >
+<!-- <div align="center" >
   <h3>Hi~</h3>
   <img height="23px" src="https://profile-counter.glitch.me/hiroi-sora/count.svg"/>
-</div>
+</div> -->
 
 
 <div align="center" >
